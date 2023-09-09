@@ -1,1 +1,1 @@
-# Simluacion-por-computadora---Josue
+# Simluacion-por-computadora---Josue Patiño
