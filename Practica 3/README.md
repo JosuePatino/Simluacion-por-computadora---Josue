@@ -1,7 +1,6 @@
 # Práctica 3: Creacion de Personaje
 Josué Emmanuel Patiño Magaña
 
-![image](https://github.com/JosuePatino/Simluacion-por-computadora---Josue/assets/144542355/51ca39b8-fcdb-4fe0-9e32-d3d629059c73)
-![image](https://github.com/JosuePatino/Simluacion-por-computadora---Josue/assets/144542355/61064ab9-b743-465f-ace9-2909b56c3ad6)
 
-
+![screenshot 2 - practica 3](https://github.com/JosuePatino/Simluacion-por-computadora---Josue/assets/144542355/47c1e95a-487c-400f-a503-b198927e585e)
+![screenshot 1 - practica 3](https://github.com/JosuePatino/Simluacion-por-computadora---Josue/assets/144542355/4c3da974-1569-433d-8c47-72459230dcff)
