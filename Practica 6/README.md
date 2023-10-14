@@ -1,4 +1,4 @@
-Practica 6: Humo y Fuego
+# Practica 6: Humo y Fuego
 
 Josué Emmanuel Patiño Magaña
 ![screenshot 1 humo](https://github.com/JosuePatino/Simulacion-por-computadora---Josue-Patino/assets/144542355/b766888a-fc5c-4a0f-b0f1-b1e10642eb39)
